@@ -1,0 +1,44 @@
+input{
+background: white;
+border-radius: 5px;
+width: 40%;
+height: 25px;
+padding: 5px;
+margin-top: 5px;
+margin-left: 5px;
+justify-content: center;
+color: black;
+border-color: rgb(18, 2, 54);
+}
+
+button{
+    height: 40px;
+    width: 180px;
+    margin: 5px;
+    background: rgb(18, 2, 54);
+    border-radius: 5px;
+    border: none;
+    color: white;
+}
+
+.todo{
+    width: 50%;
+    height: 40px;
+    background: rgb(18, 2, 54);
+    color: white;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 25px;
+    font-family: Tahoma;
+}
+
+.red{
+    background: darkred;
+}
+
+.chk{
+    margin-left: -50px;
+    margin-top: 7px;
+}
+
